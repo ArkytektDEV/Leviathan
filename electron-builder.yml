@@ -1,0 +1,4 @@
+appId: xyz.leviathan
+publish:
+  provider: github
+  token: b1fd7c88ff253e8da1a78c5a2d6aeab38d079843
